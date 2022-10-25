@@ -12,11 +12,10 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps:
+1. Visit my profile https://github.com/gauravgangwarweb/Hello-world
+2. On your terminal/IDE use the command
+   "git clone https://github.com/mckent05/Hello_Project.git"
 
 
 ## Authors
